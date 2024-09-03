@@ -34,6 +34,8 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 O DevLinks é um agregador de links para usar como cartão de visistas online.
 
+Este projeto agregou bastante no meu primeiro contato com a área de programação, pois nele consegui botar em prática todos os conhecimentos adquiridos no curso Discover da Rockcseat.
+
 ## 🔖 Layout
 
 Você pode visualizar o layout do projeto através [DESSE LINK](<https://www.figma.com/design/zVhpudQL9NCPhe9BYbqm9n/DevLinks-%E2%80%A2-Projeto-Discover-(Community)?node-id=1437-191&node-type=FRAME&t=PAALEaqAfJoXsbsq-0>). É necessário ter conta no [Figma](https://figma.com) para acessá-lo.
